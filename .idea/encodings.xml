@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AWSCloudFormation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AWSCloudFormation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AWSDynamoDB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AWSDynamoDB/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AWSLambdaFunction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AWSLambdaFunction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonEC2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonEC2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonRDS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonRDS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonS3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonS3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonSES/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AmazonSES/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ElasticBeanStalk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaAWS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaAWS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project/src/main/java" charset="UTF-8" />
+  </component>
+</project>

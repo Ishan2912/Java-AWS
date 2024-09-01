@@ -9,16 +9,16 @@ public class CreateIAMUser {
 
     public static void main(String[] args) {
        try {
-           IamClient iam = IamClient.builder().build();
+           CreateUserResponse response;
+           try (IamClient iam = IamClient.builder().build()) {
 
-           CreateUserRequest request = CreateUserRequest.builder().userName("Newuser").build();
-           CreateUserResponse response = iam.createUser(request);
+               CreateUserRequest request = CreateUserRequest.builder().userName("Ishan").build();
+               response = iam.createUser(request);
+           }
            System.out.println(response);
        }
        catch (IamException e) {
            System.err.println(e.awsErrorDetails().errorMessage());
        }
-
     }
-
 }

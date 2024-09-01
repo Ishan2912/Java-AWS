@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JavaAWS/pom.xml" />
+        <option value="$PROJECT_DIR$/Project/pom.xml" />
+        <option value="$PROJECT_DIR$/AmazonS3/pom.xml" />
+        <option value="$PROJECT_DIR$/AmazonEC2/pom.xml" />
+        <option value="$PROJECT_DIR$/AmazonRDS/pom.xml" />
+        <option value="$PROJECT_DIR$/AmazonSES/pom.xml" />
+        <option value="$PROJECT_DIR$/AWSDynamoDB/pom.xml" />
+        <option value="$PROJECT_DIR$/ElasticBeanStalk/pom.xml" />
+        <option value="$PROJECT_DIR$/AWSCloudFormation/pom.xml" />
+        <option value="$PROJECT_DIR$/AWSLambdaFunction/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
